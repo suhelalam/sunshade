@@ -1,6 +1,7 @@
 "use client"
 
 import Image from "next/image";
+// hello
 
 export default function Home() {
   return (
