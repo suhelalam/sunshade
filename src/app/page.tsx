@@ -100,10 +100,10 @@ export default function Home() {
 
             <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
               <a
-                href="#waitlist"
+                href="https://uic.sunshade.app"
                 className="inline-flex h-12 items-center justify-center rounded-full bg-zinc-950 px-6 text-sm font-medium text-white shadow-sm transition hover:bg-zinc-800 dark:bg-white dark:text-black dark:hover:bg-zinc-200"
               >
-                Get early access
+                Access Now for UIC
               </a>
               <a
                 href="#features"
